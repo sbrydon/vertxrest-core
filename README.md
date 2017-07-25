@@ -1,4 +1,4 @@
-A simple annotation-driven REST library built on top of Vert.x-Web.
+A simple annotation-driven REST framework built on top of Vert.x-Web.
 
 Controller example:
 ```java
