@@ -28,7 +28,7 @@ public class Controller {
         response.add(greeting);
         response.add(greeting);
 
-        return foo;
+        return response;
     }
 }
 ```
